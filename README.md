@@ -9,7 +9,7 @@ Shared workspace memory server for coding agents working across multiple repos o
 uvx worktrace serve
 
 # Or clone + develop
-git clone https://github.com/jchudb93/worktrace.git
+git clone https://github.com/josechudev/worktrace.git
 cd worktrace
 uv sync
 uv run worktrace --help
@@ -62,7 +62,7 @@ Deferred to v2: Jira adapter (E7), standup output (E8).
 ### Setup
 
 ```bash
-git clone https://github.com/jchudb93/worktrace.git
+git clone https://github.com/josechudev/worktrace.git
 cd worktrace
 uv sync
 ```
@@ -98,7 +98,7 @@ worktrace/
 
 ## Planning & Documentation
 
-All requirements, architecture, and epic definitions live in the separate [worktrace-docs](https://github.com/jchudb93/worktrace-docs) repo:
+All requirements, architecture, and epic definitions live in the separate [worktrace-docs](https://github.com/josechudev/worktrace-docs) repo:
 
 - **PRD:** `prd-draft.md` — full requirements
 - **Epics:** `_bmad-output/planning-artifacts/epics.md` — broken-down work
